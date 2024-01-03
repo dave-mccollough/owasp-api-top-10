@@ -1,7 +1,5 @@
 # OWASP API Security Top 10
 
-- Open Web Application Security Project 
-
 - [API1:2023 Broken Object Level Authorization (BOLA)](1-broken-object-level-authorization.md)
 - [API2:2023 Broken Authentication](2-broken-authentication.md)
 - [API3:2023 Broken Object Property Level Authorization](3-broken-object-property-level-authorization.md)
