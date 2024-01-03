@@ -10,4 +10,3 @@
 - [API8:2023 Security Misconfiguration](8-security-misconfigurations.md)
 - [API9:2023 Improper Inventory Management](9-improper-inventory-management.md)
 - [API10:2023 Unsafe Consumption of APIs](10-unsafe-consumption-of-apis.md)
-- 
